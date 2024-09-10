@@ -102,7 +102,6 @@
 
 ### **Prerequisites**:
 - Students should have basic knowledge of programming (C, Python).
-- Familiarity with Linux is not required but helpful.
 - **Book**: [The Linux Command Line](https://linuxcommand.org/tlcl.php)
   - This book is for new Linux users who have migrated from other platforms.
   - **PLEASE READ CHAPTERS 1-5 OF THIS BOOK, YOU WILL THANK ME IN THE WORKSHOP**
